@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    },
+    "autoDocstring.docstringFormat": "numpy-notypes",
+    "autoDocstring.customTemplatePath": ".vscode/docstrings.mustache"
+}
